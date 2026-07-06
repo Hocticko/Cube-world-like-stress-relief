@@ -2,6 +2,8 @@
 
 A digital recreation of the **Cube World** electronic toy series by Radica Games/Mattel (2005–2009).
 
+![Cube World Like](screenshot.png)
+
 ## Original Toy
 
 The original Cube World featured:
